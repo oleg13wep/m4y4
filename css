@@ -1,0 +1,57 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: lightblue;
+}
+
+header b{
+    color: black;
+}
+
+header img{
+    margin: 15px;
+    border: 1px;
+}
+
+h1{
+    text-align: center;
+    color: orange;
+}
+
+footer{
+    background-color: Fuchsia;
+    padding: 5px;
+}
+
+footer b{
+   background-color: white;
+}
+
+nav{
+    margin: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-decoration: none;
+    background-color: Green;
+}
+
+nav a{
+    color: white;
+    margin: 20px;
+}
+
+p img{
+    background-color: lightgreen;
+
+}
+
+h2{
+    color: rgb(9, 177, 243);
+
+}
+
+main{
+    margin: 20PX;
+}
